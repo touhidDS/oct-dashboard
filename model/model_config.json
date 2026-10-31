@@ -1,0 +1,14 @@
+{
+  "model_name": "DenseNet121",
+  "class_names": [
+    "AMD",
+    "CNV",
+    "CSR",
+    "DME",
+    "DR",
+    "DRUSEN",
+    "MH",
+    "NORMAL"
+  ],
+  "img_size": 224
+}
